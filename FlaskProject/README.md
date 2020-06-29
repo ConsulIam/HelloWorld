@@ -1,6 +1,6 @@
 ## FlaskProject
 
-This Flask Project has been built based in the guide (Getting Started With Flask, A Python Microframework)[https://scotch.io/tutorials/getting-started-with-flask-a-python-microframework]. The project search to rebuild the code using Python3.
+This Flask Project has been built based in the guide [Getting Started With Flask, A Python Microframework](https://scotch.io/tutorials/getting-started-with-flask-a-python-microframework). The project search to rebuild the code using Python3.
 
 ### Web App being developing
 
@@ -17,7 +17,7 @@ This Flask Project has been built based in the guide (Getting Started With Flask
 - [ ] Templates
 - [ ]  Conclusion 
 
-* Before table of contents currently has the same structure of the original article writted by (Mbithe Nzomo)[https://github.com/mbithenzomo/], as the project evolves, it may or may not change.
+* Before table of contents currently has the same structure of the original article writted by [Mbithe Nzomo](https://github.com/mbithenzomo/), as the project evolves, it may or may not change.
 
 # Install and setup
 
